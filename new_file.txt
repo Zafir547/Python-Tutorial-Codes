@@ -1,0 +1,5 @@
+Hello, World!
+Hi,Python!
+Hi,Sun!
+Hello,Summer!
+Hi,See!
